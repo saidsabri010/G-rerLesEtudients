@@ -56,3 +56,7 @@ C:\Users\HP\Desktop\G-rerLesEtudients\ManagementStudentSystem\ManagementStudentS
 C:\Users\HP\Desktop\G-rerLesEtudients\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Bureatique_39Mois.resources
 C:\Users\HP\Desktop\G-rerLesEtudients\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.exe.manifest
 C:\Users\HP\Desktop\G-rerLesEtudients\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.application
+C:\Users\HP\Desktop\G-rerLesEtudients\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.comptabilité_pratique9mois.resources
+C:\Users\HP\Desktop\G-rerLesEtudients\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.comptabilité_pratique6mois.resources
+C:\Users\HP\Desktop\G-rerLesEtudients\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.comptabilité_pratique3mois.resources
+C:\Users\HP\Desktop\G-rerLesEtudients\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.comptabilité_pratique.resources

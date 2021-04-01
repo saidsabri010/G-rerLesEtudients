@@ -23,5 +23,12 @@ namespace ManagementStudentSystem
             Bureatique b = new Bureatique();
             b.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            comptabilité_pratique c = new comptabilité_pratique();
+            c.Show();
+        }
     }
 }

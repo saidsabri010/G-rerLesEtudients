@@ -97,6 +97,30 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="comptabilité_pratique9mois.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="comptabilité_pratique9mois.Designer.cs">
+      <DependentUpon>comptabilité_pratique9mois.cs</DependentUpon>
+    </Compile>
+    <Compile Include="comptabilité_pratique6mois.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="comptabilité_pratique6mois.Designer.cs">
+      <DependentUpon>comptabilité_pratique6mois.cs</DependentUpon>
+    </Compile>
+    <Compile Include="comptabilité_pratique3mois.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="comptabilité_pratique3mois.Designer.cs">
+      <DependentUpon>comptabilité_pratique3mois.cs</DependentUpon>
+    </Compile>
+    <Compile Include="comptabilité_pratique.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="comptabilité_pratique.Designer.cs">
+      <DependentUpon>comptabilité_pratique.cs</DependentUpon>
+    </Compile>
     <Compile Include="Bureatique.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -135,6 +159,18 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="comptabilité_pratique9mois.resx">
+      <DependentUpon>comptabilité_pratique9mois.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="comptabilité_pratique6mois.resx">
+      <DependentUpon>comptabilité_pratique6mois.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="comptabilité_pratique3mois.resx">
+      <DependentUpon>comptabilité_pratique3mois.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="comptabilité_pratique.resx">
+      <DependentUpon>comptabilité_pratique.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Bureatique.resx">
       <DependentUpon>Bureatique.cs</DependentUpon>
     </EmbeddedResource>
