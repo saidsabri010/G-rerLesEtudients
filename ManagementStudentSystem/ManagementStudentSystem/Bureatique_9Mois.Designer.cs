@@ -1,7 +1,7 @@
 ﻿
 namespace ManagementStudentSystem
 {
-    partial class Bureatique_3Moi
+    partial class Bureatique_39Mois
     {
         /// <summary>
         /// Required designer variable.

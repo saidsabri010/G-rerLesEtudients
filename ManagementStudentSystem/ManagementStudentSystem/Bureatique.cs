@@ -35,5 +35,19 @@ namespace ManagementStudentSystem
             Bureatique_3Moi b3 = new Bureatique_3Moi();
             b3.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Bureatique_3MoisCopy b = new Bureatique_3MoisCopy();
+            b.Show();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Bureatique_39Mois b = new Bureatique_39Mois();
+            b.Show();
+        }
     }
 }

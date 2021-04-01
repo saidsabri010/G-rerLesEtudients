@@ -1,7 +1,7 @@
 ﻿
 namespace ManagementStudentSystem
 {
-    partial class Bureatique_3Moi
+    partial class Bureatique_3MoisCopy
     {
         /// <summary>
         /// Required designer variable.
@@ -68,9 +68,9 @@ namespace ManagementStudentSystem
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(19, 12);
+            this.pictureBox1.Location = new System.Drawing.Point(22, 12);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(272, 205);
+            this.pictureBox1.Size = new System.Drawing.Size(262, 169);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
