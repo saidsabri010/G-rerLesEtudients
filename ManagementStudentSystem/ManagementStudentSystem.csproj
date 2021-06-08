@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3A0DBFA5-D9FE-42E1-AB54-8997ABD132FF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ManagementStudentSystem</RootNamespace>
+    <AssemblyName>ManagementStudentSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ima %281%29%281%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySqlConnector, Version=1.0.0.0, Culture=neutral, PublicKeyToken=d33d3e53aa5f8c92, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySqlConnector.1.3.2\lib\net471\MySqlConnector.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.4.0\lib\netstandard2.0\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Memory, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.0\lib\netstandard2.0\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.4.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.5.0\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.3.0\lib\portable-net45+win8+wp8+wpa81\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Agronomie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Agronomie.Designer.cs">
+      <DependentUpon>Agronomie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Systeme_Qualite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Systeme_Qualite.Designer.cs">
+      <DependentUpon>Systeme_Qualite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Soutien_Universitaire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Soutien_Universitaire.Designer.cs">
+      <DependentUpon>Soutien_Universitaire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Science_de_Education.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Science_de_Education.Designer.cs">
+      <DependentUpon>Science_de_Education.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Programmation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Programmation.Designer.cs">
+      <DependentUpon>Programmation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="langues_et_Communication.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="langues_et_Communication.Designer.cs">
+      <DependentUpon>langues_et_Communication.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Informatique.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Informatique.Designer.cs">
+      <DependentUpon>Informatique.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion_comercial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion_comercial.Designer.cs">
+      <DependentUpon>Gestion_comercial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design_graphique.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design_graphique.Designer.cs">
+      <DependentUpon>Design_graphique.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Comptabilite_pratique .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comptabilite_pratique .Designer.cs">
+      <DependentUpon>Comptabilite_pratique .cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bureatique.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bureatique.Designer.cs">
+      <DependentUpon>Bureatique.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Agronomie.resx">
+      <DependentUpon>Agronomie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Systeme_Qualite.resx">
+      <DependentUpon>Systeme_Qualite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Soutien_Universitaire.resx">
+      <DependentUpon>Soutien_Universitaire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Science_de_Education.resx">
+      <DependentUpon>Science_de_Education.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Programmation.resx">
+      <DependentUpon>Programmation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="langues_et_Communication.resx">
+      <DependentUpon>langues_et_Communication.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Informatique.resx">
+      <DependentUpon>Informatique.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion_comercial.resx">
+      <DependentUpon>Gestion_comercial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design_graphique.resx">
+      <DependentUpon>Design_graphique.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comptabilite_pratique .resx">
+      <DependentUpon>Comptabilite_pratique .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bureatique.resx">
+      <DependentUpon>Bureatique.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\bureautique.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ima1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ima %281%29%281%29.ico" />
+    <None Include="Resources\RE1.png" />
+    <None Include="Resources\RE.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

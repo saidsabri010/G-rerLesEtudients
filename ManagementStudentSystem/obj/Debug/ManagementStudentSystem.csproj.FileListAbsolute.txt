@@ -1,0 +1,147 @@
+C:\Users\HP\source\repos\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\ManagementStudentSystem.exe.config
+C:\Users\HP\source\repos\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\ManagementStudentSystem.exe
+C:\Users\HP\source\repos\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\ManagementStudentSystem.pdb
+C:\Users\HP\source\repos\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Properties.Resources.resources
+C:\Users\HP\source\repos\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.exe
+C:\Users\HP\source\repos\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.pdb
+C:\Users\HP\source\repos\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\Manage_Student_System.Form1.resources
+C:\Users\HP\source\repos\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\MySqlConnector.dll
+C:\Users\HP\source\repos\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Buffers.dll
+C:\Users\HP\source\repos\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Memory.dll
+C:\Users\HP\source\repos\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\source\repos\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\source\repos\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\source\repos\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\MySqlConnector.xml
+C:\Users\HP\source\repos\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Buffers.xml
+C:\Users\HP\source\repos\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Memory.xml
+C:\Users\HP\source\repos\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\source\repos\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\source\repos\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\source\repos\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.csproj.CopyComplete
+C:\Users\HP\source\repos\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Home.resources
+C:\Users\HP\source\repos\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Bureatique.resources
+C:\Users\HP\source\repos\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Bureatique_3Moi.resources
+C:\Users\Azdin\Downloads\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\ManagementStudentSystem.exe.config
+C:\Users\Azdin\Downloads\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\ManagementStudentSystem.exe
+C:\Users\Azdin\Downloads\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\ManagementStudentSystem.pdb
+C:\Users\Azdin\Downloads\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\MySqlConnector.dll
+C:\Users\Azdin\Downloads\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Buffers.dll
+C:\Users\Azdin\Downloads\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Memory.dll
+C:\Users\Azdin\Downloads\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Azdin\Downloads\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Azdin\Downloads\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Azdin\Downloads\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\MySqlConnector.xml
+C:\Users\Azdin\Downloads\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Buffers.xml
+C:\Users\Azdin\Downloads\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Memory.xml
+C:\Users\Azdin\Downloads\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Azdin\Downloads\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Azdin\Downloads\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Azdin\Downloads\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.csprojAssemblyReference.cache
+C:\Users\Azdin\Downloads\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Bureatique.resources
+C:\Users\Azdin\Downloads\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\Manage_Student_System.Form1.resources
+C:\Users\Azdin\Downloads\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Home.resources
+C:\Users\Azdin\Downloads\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Properties.Resources.resources
+C:\Users\Azdin\Downloads\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.csproj.GenerateResource.cache
+C:\Users\Azdin\Downloads\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\Azdin\Downloads\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.csproj.CopyComplete
+C:\Users\Azdin\Downloads\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.exe
+C:\Users\Azdin\Downloads\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.pdb
+C:\Users\Azdin\Downloads\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Bureatique_6Moi.resources
+C:\Users\Azdin\Downloads\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Bureatique_9Moi.resources
+C:\Users\Azdin\Downloads\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Bureatique_3Moi.resources
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\ManagementStudentSystem.exe.config
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\ManagementStudentSystem.exe
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\ManagementStudentSystem.pdb
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\MySqlConnector.dll
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Buffers.dll
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Memory.dll
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\MySqlConnector.xml
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Buffers.xml
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Memory.xml
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.csprojAssemblyReference.cache
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Bureatique.resources
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\Manage_Student_System.Form1.resources
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Home.resources
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Properties.Resources.resources
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.csproj.GenerateResource.cache
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.csproj.CopyComplete
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.exe
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.pdb
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Comptabilite_pratique.resources
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Agronomie.resources
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Science_de_Education.resources
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Programmation.resources
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.langues_et_Communication.resources
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Informatique.resources
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Gestion_comercial.resources
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Design_graphique.resources
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Systeme_Qualite.resources
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Soutien_Universitaire.resources
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\ManagementStudentSystem.exe.config
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\ManagementStudentSystem.exe
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\ManagementStudentSystem.pdb
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\MySqlConnector.dll
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Buffers.dll
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Memory.dll
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\MySqlConnector.xml
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Buffers.xml
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Memory.xml
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.csprojAssemblyReference.cache
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Agronomie.resources
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Systeme_Qualite.resources
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Soutien_Universitaire.resources
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Science_de_Education.resources
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Programmation.resources
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.langues_et_Communication.resources
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Informatique.resources
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Gestion_comercial.resources
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Design_graphique.resources
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Comptabilite_pratique.resources
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Bureatique.resources
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\Manage_Student_System.Form1.resources
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Home.resources
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Properties.Resources.resources
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.csproj.GenerateResource.cache
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.csproj.CopyComplete
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.exe
+C:\Users\Azdin\OneDrive\Bureau\G-rerLesEtudients-main - Copie\ManagementStudentSystem\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.pdb
+C:\Users\HP\Downloads\ManagementStudentSystem-20210607T235043Z-001\ManagementStudentSystem\bin\Debug\ManagementStudentSystem.exe.config
+C:\Users\HP\Downloads\ManagementStudentSystem-20210607T235043Z-001\ManagementStudentSystem\bin\Debug\ManagementStudentSystem.exe
+C:\Users\HP\Downloads\ManagementStudentSystem-20210607T235043Z-001\ManagementStudentSystem\bin\Debug\ManagementStudentSystem.pdb
+C:\Users\HP\Downloads\ManagementStudentSystem-20210607T235043Z-001\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Agronomie.resources
+C:\Users\HP\Downloads\ManagementStudentSystem-20210607T235043Z-001\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Systeme_Qualite.resources
+C:\Users\HP\Downloads\ManagementStudentSystem-20210607T235043Z-001\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Soutien_Universitaire.resources
+C:\Users\HP\Downloads\ManagementStudentSystem-20210607T235043Z-001\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Science_de_Education.resources
+C:\Users\HP\Downloads\ManagementStudentSystem-20210607T235043Z-001\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Programmation.resources
+C:\Users\HP\Downloads\ManagementStudentSystem-20210607T235043Z-001\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.langues_et_Communication.resources
+C:\Users\HP\Downloads\ManagementStudentSystem-20210607T235043Z-001\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Informatique.resources
+C:\Users\HP\Downloads\ManagementStudentSystem-20210607T235043Z-001\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Gestion_comercial.resources
+C:\Users\HP\Downloads\ManagementStudentSystem-20210607T235043Z-001\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Design_graphique.resources
+C:\Users\HP\Downloads\ManagementStudentSystem-20210607T235043Z-001\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Comptabilite_pratique.resources
+C:\Users\HP\Downloads\ManagementStudentSystem-20210607T235043Z-001\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Bureatique.resources
+C:\Users\HP\Downloads\ManagementStudentSystem-20210607T235043Z-001\ManagementStudentSystem\obj\Debug\Manage_Student_System.Form1.resources
+C:\Users\HP\Downloads\ManagementStudentSystem-20210607T235043Z-001\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Home.resources
+C:\Users\HP\Downloads\ManagementStudentSystem-20210607T235043Z-001\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.Properties.Resources.resources
+C:\Users\HP\Downloads\ManagementStudentSystem-20210607T235043Z-001\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\ManagementStudentSystem-20210607T235043Z-001\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\ManagementStudentSystem-20210607T235043Z-001\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.csproj.CopyComplete
+C:\Users\HP\Downloads\ManagementStudentSystem-20210607T235043Z-001\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.exe
+C:\Users\HP\Downloads\ManagementStudentSystem-20210607T235043Z-001\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.pdb
+C:\Users\HP\Downloads\ManagementStudentSystem-20210607T235043Z-001\ManagementStudentSystem\obj\Debug\ManagementStudentSystem.csprojAssemblyReference.cache
